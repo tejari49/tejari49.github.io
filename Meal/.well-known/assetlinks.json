@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rai.timeroster",
+      "sha256_cert_fingerprints": [
+        "6e:b7:72:8d:ce:50:c0:fd:ab:d6:ca:cb:45:cc:5c:4a:c6:71:4d:63:d1:4b:f9:51:bf:20:67:22:85:4a:05:f5"
+      ]
+    }
+  }
+]
